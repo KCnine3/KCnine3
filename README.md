@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github.com/KCnine3/KCnine3/blob/main/SOC.gif" alt="Coder GIF" width="420" height="330">
 
-<!--
-**KCnine3/KCnine3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there👋 I am Kannaphop Chantosot 
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+
+- 🎯 Portfolio website: [Portfolio](https://KCnine3.github.io/)
+- ⚡ Fun fact: You can do anything, but don't let anyone know.🤓
+
+
+
